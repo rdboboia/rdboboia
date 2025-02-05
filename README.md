@@ -5,6 +5,7 @@
 
 # About me
 I'm a full time developer (both for work and for personal projects that I usually share with the world here on GitHub).
+I also LOVE gaming, but I don't have that much time nor energy for it lately.
 
 <!---
 rdboboia/rdboboia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
