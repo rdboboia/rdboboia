@@ -1,7 +1,10 @@
 # Short intro
-- 👋 Hi, I’m @rdboboia
+- 👋 Hi, I’m @rdboboia.
 - 👀 I’m interested in technology, specially in computers.
-- 🌱 I’m currently expanding my knowledge in Java, Springboot and Azure DevOps.
+- 📚 I'm work as an Software Engineer in the mornings, and an self taught Advanced IT guy in the evenings 😎.
+- 🏢 I’m currently working at Babel SI (https://es.linkedin.com/company/babel).
+- 🌱 I’m expanding my knowledge in Java, Springboot (for work) and Windows Batch and PowerShell scripting (for my personal projects).
+
 
 # About me
 I'm a full time developer (both for work and for personal projects that I usually share with the world here on GitHub).
