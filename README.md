@@ -14,6 +14,12 @@ https://github.com/rdboboia/misc/blob/main/hardware/monitoring/README.md
 
 ![image](https://github.com/user-attachments/assets/4835bbbd-029b-4db5-968f-7389cd6cb5f8)
 
+## Fractal generator
+https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
+
+![image](https://github.com/user-attachments/assets/228356a6-28a4-4d61-a6fa-195c8e41e723)
+
+
 <!---
 rdboboia/rdboboia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
