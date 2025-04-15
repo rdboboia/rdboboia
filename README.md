@@ -12,7 +12,7 @@ Some of my work that I'm most proud about:
 ## RTSS custom overlay
 https://github.com/rdboboia/misc/blob/main/hardware/monitoring/README.md
 
-![image](https://github.com/user-attachments/assets/4835bbbd-029b-4db5-968f-7389cd6cb5f8)
+![image](https://github.com/user-attachments/assets/1426faf1-bc39-4daa-9845-7efe59f3cc5a)
 
 ## Fractal generator
 https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
