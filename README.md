@@ -10,13 +10,27 @@
 Some of my work that I'm most proud about:
 
 ## RTSS custom overlay
+### Current status
+- Completed and stable.
+- Minor changes are still being pushed.
+- Major changes might come in the future.
+
+### Link
 https://github.com/rdboboia/misc/blob/main/hardware/monitoring/README.md
 
+### Overview
 ![image](https://github.com/user-attachments/assets/1426faf1-bc39-4daa-9845-7efe59f3cc5a)
 
 ## Fractal generator
+### Current status
+- Completed and stable.
+- No more minor changes to be made for now.
+- Major changes might come in the future (I have some ideas in mind).
+
+### Link
 https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
 
+### Overview
 ![image](https://github.com/user-attachments/assets/228356a6-28a4-4d61-a6fa-195c8e41e723)
 
 
