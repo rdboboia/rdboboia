@@ -21,6 +21,11 @@ https://github.com/rdboboia/misc/blob/main/hardware/monitoring/README.md
 ### Overview
 ![image](https://github.com/user-attachments/assets/1426faf1-bc39-4daa-9845-7efe59f3cc5a)
 
+
+
+
+
+
 ## Fractal generator
 ### Current status
 - Completed and stable.
@@ -32,6 +37,18 @@ https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
 
 ### Overview
 ![image](https://github.com/user-attachments/assets/228356a6-28a4-4d61-a6fa-195c8e41e723)
+
+
+
+
+
+
+## Format Automation Script Templates (FAST 😏)
+### Current status
+- This project is still work in progress, so minor and major changes are still being made. I don't recommend using it for now, but you can take a peek at what it is aboud ;)
+
+### Link
+https://github.com/rdboboia/format-automation-script-templates
 
 
 <!---
