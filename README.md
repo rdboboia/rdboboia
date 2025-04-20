@@ -10,7 +10,7 @@
 Some of my work that I'm most proud about:
 
 ## RTSS custom overlay
-### Current status
+### Current status: ✅
 - Completed and stable.
 - Minor changes are still being pushed.
 - Major changes might come in the future.
@@ -27,7 +27,7 @@ https://github.com/rdboboia/misc/blob/main/hardware/monitoring/README.md
 
 
 ## Fractal generator
-### Current status
+### Current status: ✅
 - Completed and stable.
 - No more minor changes to be made for now.
 - Major changes might come in the future (I have some ideas in mind).
@@ -44,7 +44,7 @@ https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
 
 
 ## Format Automation Script Templates (FAST 😏)
-### Current status
+### Current status: 🚧
 - This project is still work in progress, so minor and major changes are still being made. I don't recommend using it for now, but you can take a peek at what it is aboud ;)
 
 ### Link
