@@ -45,7 +45,7 @@ https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
 
 ## Format Automation Script Templates (FAST 😏)
 ### Current status: 🚧
-- This project is still work in progress, so minor and major changes are still being made. I don't recommend using it for now, but you can take a peek at what it is aboud ;)
+- This project is still work in progress, so minor and major changes are still being made. I don't recommend using it for now, but you can take a peek at what it is about ;)
 
 ### Link
 https://github.com/rdboboia/format-automation-script-templates
