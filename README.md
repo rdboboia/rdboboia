@@ -6,14 +6,6 @@
 - 🌱 I’m expanding my knowledge in Java, Springboot (for work) and Windows Batch and PowerShell scripting (for my personal projects).
 - ☕ I'm investing a lot of time in my github repositories lately, which are all public, so if you feel like it you can "buy me a coffee" from the link in my profile 😜.
 
-# Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rdboboia&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdboboia&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 # To check out
 Some of my work that I'm most proud about:
 
@@ -57,6 +49,19 @@ https://github.com/rdboboia/tfg-fractal-generator/tree/master/target
 
 ### Link
 https://github.com/rdboboia/format-automation-script-templates
+
+
+
+
+
+
+# Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rdboboia&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdboboia&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <!---
